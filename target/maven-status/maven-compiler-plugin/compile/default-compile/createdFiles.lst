@@ -1,0 +1,9 @@
+com\keyin\airport\AirportRestApi.class
+com\keyin\aircraft\Aircraft.class
+com\keyin\cities\CitiesRestApi.class
+com\keyin\RestServiceApplication.class
+com\keyin\airport\Airport.class
+com\keyin\cities\Cities.class
+com\keyin\passengers\PassengersRestApi.class
+com\keyin\aircraft\AircraftRestApi.class
+com\keyin\passengers\Passengers.class
